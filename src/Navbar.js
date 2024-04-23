@@ -1,7 +1,8 @@
 export default function Navbar() {
     return <nav className="nav">
         <div className = 'navbar'>
-            <img scr= "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=366,fit=crop,q=95/AwvJLNyg3Li75PMo/qtm_logo_new-m6LD25DRWgS1z1Mx.png" alt = "QTIMinds" className="logo"/>
+            <img scr= "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=496,fit=crop,q=95/AwvJLNyg3Li75PMo/qti-logo---primary-YKbJpOPK7Vs9v12k.png" alt = "QTIMinds" className="logo"/>
+            
         </div>
         <ul>
             <li>
